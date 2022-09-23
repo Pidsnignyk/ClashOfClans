@@ -1,9 +1,14 @@
 body{
-    background-color:blanchedalmond;
+    background-image: url(/css/coc\ background.png);
+    margin: 0;
+}
+b{
+    text-align: center;
+    color: white;
 }
 h1{
-    text-align: center;
+    color: white;
 }
-body{
-    background-image: unset;
+p{
+    color: white;
 }
