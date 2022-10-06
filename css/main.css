@@ -1,6 +1,7 @@
 body{
     background-image: url(/css/coc\ background.png);
-    margin: 0;
+    background-attachment: fixed;
+    margin: 0;  
 }
 b{
     text-align: center;
@@ -11,4 +12,26 @@ h1{
 }
 p{
     color: white;
+}
+dt{
+    color: rgb(64, 116, 230);
+}
+dd{
+    color: aliceblue;
+}
+ol{
+    color: white;
+}
+.Elixir{
+    color:white;
+}
+dl{
+    font-size: 30px;
+}
+.troops{
+    width: 90%;
+    margin-left: 150px;
+}
+h3{
+    color:rgb(201, 33, 159)
 }
