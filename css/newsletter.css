@@ -1,0 +1,16 @@
+body{
+    background-image: url(../css/background.png);
+    background-attachment: fixed;
+    margin: 0;  
+}
+h2{   
+    font-size: 25px;
+    margin-left: 25px;
+}
+p{
+    font-size: 20px;
+    margin-left: 25px;
+}
+.home-newws-primary-item-picture{
+    margin-left: 20px;
+}

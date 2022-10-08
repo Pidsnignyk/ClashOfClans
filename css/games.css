@@ -1,0 +1,9 @@
+body{
+    background-image: url(../css/background.png);
+    background-attachment: fixed;
+    margin: 0;  
+}
+img{
+    margin-left: 450px;
+    margin-top: 50px;
+}
